@@ -1,0 +1,16 @@
+.white {
+    background-color: whitesmoke;
+    width: 200px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.red {
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 60px;
+}
